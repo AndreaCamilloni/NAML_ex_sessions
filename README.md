@@ -1,1 +1,2 @@
-# NAML_ex_sessions
+# NAML - Numerical Analysis for Machine Learning
+some material on the NAML course
